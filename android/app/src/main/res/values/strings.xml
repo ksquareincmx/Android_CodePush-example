@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">AndroidCodePushExample</string>
-    <string name="CodePushDeploymentKey">1DlNqREXFYpAFSEqw6Rwc96-dHNl_W8y4bNuK</string>
+    <string name="CodePushDeploymentKey">DEPLOYMENT_KEY</string>
 </resources>
